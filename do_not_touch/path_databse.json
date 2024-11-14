@@ -1,0 +1,7 @@
+{
+  "table": {
+    "/home/abinash/.bashrc": "/home/abinash/.adof/.bashrc",
+    "/home/abinash/.config/nvim/init.lua": "/home/abinash/.adof/.config/nvim/init.lua",
+    "/home/abinash/dotfiles_readme/README.md": "/home/abinash/.adof/README.md"
+  }
+}
